@@ -117,7 +117,10 @@ We do not share your personal data with third parties except:
 
 We retain your information for as long as your account is active. If you delete
 your account, we delete your personal data and business records associated with
-your account, except where we are required to retain certain information by law.
+your account, except where we are required or permitted to retain limited
+information for legal, tax/accounting, security, fraud prevention, dispute
+resolution, backup, or compliance purposes. Backup copies may take up to 90 days
+to be fully removed from our systems.
 
 ---
 
@@ -128,9 +131,10 @@ You can:
 - **Access and update** your information from within the App.
 - **Request deletion** of your account and associated data at any time.
 
-To delete your account and data, use the in-app account deletion option (where
-available) or email us at **jaybholicustomerservice@gmail.com** and we will process your
-request.
+To delete your account and data, visit our
+[account deletion request page](https://jaybholiapp.github.io/jaybholi-privacy-policy/delete-account.html)
+or email us at **jaybholicustomerservice@gmail.com** and we will process your
+request after verifying account ownership.
 
 ---
 
